@@ -11,7 +11,6 @@ I am a dedicated and detail-oriented professional with experience in automation 
 - **Programming Languages**: Java, Python
 - **Testing Tools**: Selenium, TestNG, Cucumber,Jenkins
 - **Version Control**: Git, GitHub
-- **Reporting Tools**: ExtentReports, HTML Reporting
 
 ## Projects
 
