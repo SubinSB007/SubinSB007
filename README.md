@@ -1,10 +1,12 @@
-# Welcome to My GitHub Profile
+# Hi, I'm Subin SB
 
-Hello! I’m Subin SB, a passionate software tester and automation engineer with a focus on creating efficient testing frameworks and ensuring software quality. This portfolio showcases my work in automation testing, including various projects, tools, and methodologies I've utilized.
+## Quality Assurance Engineer
+
+
 
 ## About Me
 
-I am a dedicated and detail-oriented professional with experience in automation testing and a strong foundation in software development. My goal is to enhance software quality and reliability through effective testing practices. I am proficient in several programming languages and testing tools, including Selenium, Java, and TestNG.
+As a dedicated software tester and automation engineer, I am passionate about designing and implementing efficient testing frameworks that guarantee software excellence. This portfolio highlights my expertise in automation testing, featuring a selection of projects, tools, and methodologies that demonstrate my commitment to delivering high-quality software solutions
 
 ## Projects
 
