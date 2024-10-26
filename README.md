@@ -1,4 +1,4 @@
-# Welcome to My GitHub Portfolio
+# Welcome to My GitHub Profile
 
 Hello! I’m Subin SB, a passionate software tester and automation engineer with a focus on creating efficient testing frameworks and ensuring software quality. This portfolio showcases my work in automation testing, including various projects, tools, and methodologies I've utilized.
 
