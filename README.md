@@ -30,4 +30,4 @@ As a dedicated software tester and automation engineer, I am passionate about de
   - Completed comprehensive training in automation testing methodologies and tools.
   - Gained hands-on experience with popular automation frameworks and tools.
   
-Thank you for visiting my portfolio!
+
