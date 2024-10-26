@@ -26,5 +26,6 @@ I am a dedicated and detail-oriented professional with experience in automation 
 
 - **Automation Testing Training**: ICT Academy of Kerala, 2024
   - Completed comprehensive training in automation testing methodologies and tools.
+  - Gained hands-on experience with popular automation frameworks and tools.
   
 Thank you for visiting my portfolio!
